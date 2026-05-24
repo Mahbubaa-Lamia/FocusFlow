@@ -17,38 +17,38 @@ Built with a clean dashboard architecture and cognitive productivity principles,
 Modern login interface with protected session access.
 
 ### 📸 Login Preview
-![Login Screenshot](./screenshots/login.png)
+![Login Screenshot](https://github.com/user-attachments/assets/8e835ea0-8d6d-418c-bb24-7199ccd8d545)
 
 ## 📊 Productivity Dashboard
 Centralized command center for tracking goals, priorities, productivity score, and workflow insights.
 
 ### 📸 Dashboard Preview
-![Dashboard Screenshot](./screenshots/dashboard.png)
+![Dashboard Screenshot](https://github.com/user-attachments/assets/7c11aa67-29fc-494a-a0f0-1fdc6049dc5e)
 
 ## 🧠 Intelligent Focus Sprint
 Deep-work environment designed around cognitive workload balancing and distraction-free focus sessions.
 
 ### 📸 Focus Sprint Preview
-![Focus Sprint Screenshot](./screenshots/focus-mode.png)
+![Focus Sprint Screenshot](https://github.com/user-attachments/assets/8908d85b-f705-4a2a-89ba-48900ab42b17)
 
 ## 📈 Analytics Index
 Visual productivity mapping system for monitoring consistency and milestone completion.
 
 ### 📸 Analytics Preview
-![Analytics Screenshot](./screenshots/analytics.png)
+![Analytics Screenshot](https://github.com/user-attachments/assets/0819607b-2d2a-46d6-b80d-066616da35d0)
 
 
 ## ⚙️ Control Panel
 Personalized workflow customization and session management interface.
 
 ### 📸 Settings Preview
-![Settings Screenshot](./screenshots/settings.png)
+![Settings Screenshot](https://github.com/user-attachments/assets/e17fd7a7-16c0-41e1-acf7-db8efa0e53f2)
 
 ## 🔐 Help & Security Core
 Secure support environment with protected authentication and session handling.
 
 ### 📸 Security Preview
-![Security Screenshot](./screenshots/security.png)
+![Security Screenshot](https://github.com/user-attachments/assets/61aff3a9-040a-46db-ba7e-691cb54b287a)
 
 # 🧠 Intelligent Focus Arena
 A distraction-free deep work environment inspired by the Pomodoro Technique and cognitive workload balancing.
